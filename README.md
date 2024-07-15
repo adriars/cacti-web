@@ -11,13 +11,11 @@ revisions.
 
 This project includes the following
 
-* A Javscript version of the CACTI 7.0 CLI tool
-
 * A Web Assembly version of the CACTI 7.0 CLI tool
 
 * A NPM project with a web interface that allows users to interact with the CACTI 7.0 tool using a web browser and common HTML forms
 
-* A docker compose file to easily deploy a docker container with an express server runing web version of the CACTI 7.0 tool
+* A docker compose file to easily deploy a docker container runing the web version of the CACTI 7.0 tool
 
 # How to deploy
 
