@@ -52,6 +52,8 @@ Check the section below on more information about how to use this CLI version
 
 # Additional info
 
+This project used the CACTI source code from this repo https://github.com/topanitanw/Cacti-7.0
+
 List of features (version 1-7):
 
 The following is the list of features supported by the tool. 
