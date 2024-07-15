@@ -19,26 +19,30 @@ This project includes the following
 
 # How to deploy
 
-## Nodejs
-You can run the project with the following commands
-```
-npm install
-npm start
-```
-
 ## Docker
 You can run the project with the following commands
 ```
+git clone https://github.com/adriars/cacti-web.git
+cd cacti-web
 docker compose up -d
+```
+
+## Nodejs
+You can run the NPM project with the following commands
+```
+git clone https://github.com/adriars/cacti-web.git
+cd cacti-web
+npm install
+npm start
 ```
 
 # How to use
 
 ## Web browser
-You can acces the web inteface on 'http://localhost:8001' using a web browser
+You can acces the web inteface on 'http://localhost:8001' using a web browser (If you need a different port you will need to change the port in "server.js" and/or in "docker-compose.yml"
 
 ## Javascript
-You can use the CACTI application with the following commands
+You can use the WASM version of the CACTI tool as a CLI application with the following commands
 
 ```
 node cacti.js
