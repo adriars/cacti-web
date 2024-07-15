@@ -52,7 +52,7 @@ Check the section below on more information about how to use this CLI version
 
 # Additional info
 
-This project used the CACTI source code from this repo https://github.com/topanitanw/Cacti-7.0
+This project used the CACTI source code from this repo https://github.com/HewlettPackard/cacti
 
 List of features (version 1-7):
 
